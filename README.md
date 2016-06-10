@@ -23,4 +23,4 @@ JGraphT - http://jgrapht.org/
 
 Non-case sensitive 2-Gram - http://www.ngrams.info/download_coca.asp
 
-These were essential for even beginning to have something workable, thanks so much to the producers creating this free lists. 
+These were essential for even beginning to have something workable, thanks so much to the producers creating this free lists. However, due to licensing, I have NOT included this lists online. Please download the samples from their websites and put them in the primary folder for use. 
